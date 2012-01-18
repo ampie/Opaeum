@@ -73,8 +73,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.5159916"
-     inkscape:cx="-0.00069261597"
-     inkscape:cy="148.13524"
+     inkscape:cx="-103.56327"
+     inkscape:cy="121.74987"
      inkscape:document-units="px"
      inkscape:current-layer="g2336"
      width="300px"
@@ -172,7 +172,7 @@
       <flowRoot
          xml:space="preserve"
          id="flowRoot2998"
-         style="font-size:28px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:tb-rl;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         style="font-size:28px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:tb-rl;text-anchor:start;fill:#0024ba;fill-opacity:1;stroke:none;font-family:Sans"
          transform="matrix(0.99262706,0,0,1.0275272,76.972482,255.35863)"><flowRegion
            id="flowRegion3000"><rect
              id="rect3002"
@@ -180,8 +180,8 @@
              height="137.20393"
              x="78.496475"
              y="155.5401"
-             style="font-size:28px;text-align:justify;writing-mode:tb-rl;text-anchor:start" /></flowRegion><flowPara
+             style="font-size:28px;text-align:justify;writing-mode:tb-rl;text-anchor:start;fill:#0024ba;fill-opacity:1" /></flowRegion><flowPara
            id="flowPara3004"
-           style="fill:#0000ff">AEUM</flowPara></flowRoot>    </g>
+           style="fill:#0024ba;fill-opacity:1">AEUM</flowPara></flowRoot>    </g>
   </g>
 </svg>
